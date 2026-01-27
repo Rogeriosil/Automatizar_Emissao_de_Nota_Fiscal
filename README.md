@@ -42,6 +42,6 @@ Esse projeto reforçou conceitos importantes como:
 
 📌 Projeto desenvolvido com foco em aprendizado prático e aplicações reais de automação.
 
-🔗 GitHub: https://github.com/Rogeriosil
+🔗 GitHub: https://github.com/Rogeriosil/Automatizar_Emissao_de_Nota_Fiscal/blob/main/EmissaoNF.ipynb
 
 #Python #Selenium #Automação #RPA #Programação #Desenvolvedor #Tech #Projetos #DataAutomation
